@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamedhesham221
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning Vue.js
+- 👀 I’m interested in Web & Andriod development
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/mohamed-hesham-23544b253/
 
