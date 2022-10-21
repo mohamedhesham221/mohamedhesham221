@@ -5,7 +5,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/mohamed-hesham-23544b253/
 
 ### Summery
-a passionate and self-motivated Developer who loves creating a professional web pages using JavaScript, HTML5, and CSS and mobile applications using Flutter to build all aspects of the user experience and user interface.
+a passionate and self-motivated Developer who loves creating mobile applications using `Flutter` and professional web pages using `JavaScript`, `HTML5`, and `CSS`  to build all aspects of the user experience and user interface.
 I completed Udacity courses to enhance my abilities, I can work in group and solo meeting the required deadlines with being punctual to schedules.
 
 <!---
