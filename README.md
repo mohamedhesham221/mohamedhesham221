@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @mohamedhesham221
 - 👀 I’m interested in Web & Andriod development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/mohamed-hesham-23544b253/
 
 ### Summery
-a passionate and self-motivated Developer who loves creating a professional web pages and applications using JavaScript, HTML5, and CSS to build all aspects of the user experience and user interface for client-facing landing pages.
+a passionate and self-motivated Developer who loves creating a professional web pages using JavaScript, HTML5, and CSS and mobile applications using Flutter to build all aspects of the user experience and user interface.
 I completed Udacity courses to enhance my abilities, I can work in group and solo meeting the required deadlines with being punctual to schedules.
 
 <!---
