@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamedhesham221
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning `React.js`
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/muhammad-hisham-23544b253/
 
