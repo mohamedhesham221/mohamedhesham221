@@ -1,5 +1,5 @@
-👋 Hi there i'm,
-  ## Muhammad Hisham
+# 👋 Hi there,
+  ## I'm Muhammad Hisham
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning `React.js`
 - 💞️ I’m looking to collaborate on open source projects
