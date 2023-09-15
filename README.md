@@ -8,7 +8,6 @@
 ### Summery
 a passionate and self-motivated Developer who loves creating professional web pages using `JavaScript`, `HTML5`, and `CSS`  to build all aspects of the user experience and user interface.
 I completed Udacity courses to enhance my abilities, I can work in group and solo meeting the required deadlines with being punctual to schedules and iam working on my skills to become MERN stack developer .
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <!---<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
