@@ -12,12 +12,12 @@ I completed Udacity courses to enhance my abilities, I can work in group and sol
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://icons8.com/icon/20909/html-5" alt="bash" width="45" height="45"/>
-<img src="https://icons8.com/icon/21278/css3" alt="php" width="45" height="45"/>
-<img src="https://icons8.com/icon/108784/javascript" alt="php" width="45" height="45"/>
-<img src="https://icons8.com/icon/114474/json" alt="php" width="45" height="45"/>
-<img src="https://icons8.com/icon/wPohyHO_qO1a/react" alt="php" width="45" height="45"/>
-<img src="https://icons8.com/icon/20906/git" alt="php" width="45" height="45"/>
+<img src="https://icons8.com/icon/20909/html-5" alt="Html" width="45" height="45"/>
+<img src="https://icons8.com/icon/21278/css3" alt="CSS" width="45" height="45"/>
+<img src="https://icons8.com/icon/108784/javascript" alt="js" width="45" height="45"/>
+<img src="https://icons8.com/icon/114474/json" alt="json" width="45" height="45"/>
+<img src="https://icons8.com/icon/wPohyHO_qO1a/react" alt="react" width="45" height="45"/>
+<img src="https://icons8.com/icon/20906/git" alt="git" width="45" height="45"/>
 </p>
 <!---
 mohamedhesham221/mohamedhesham221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
