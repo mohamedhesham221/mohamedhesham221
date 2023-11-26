@@ -1,5 +1,5 @@
 ## Hi 👋, Iam Muhammad Hisham
-#### A passionate frontend developer from Egypt
+#### A Passionate Frontend Developer From Egypt
 
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning `React.js`
