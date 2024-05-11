@@ -6,8 +6,7 @@
 - 📫 How to reach me muhammedhishamm2@gmail.com
 
 ### Summery
-a passionate and self-motivated Developer who loves creating professional web pages using `JavaScript`, `HTML5`, and `CSS`  to build all aspects of the user experience and user interface.
-I completed Udacity courses to enhance my abilities, I can work in group and solo meeting the required deadlines with being punctual to schedules and iam working on my skills to become MERN stack developer .
+🌟 Passionate Frontend React Developer 🚀Crafting immersive web experiences with `HTML`, `CSS`, `JavaScript`, and `React.js`. Dedicated to creating sleek, user-friendly interfaces and staying up-to-date with the latest frontend technologies. Let's innovate and build the future of the web together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
