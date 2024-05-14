@@ -6,7 +6,8 @@
 - 📫 How to reach me muhammedhishamm2@gmail.com
 
 ### Summery
-🌟 Passionate Frontend React Developer 🚀Crafting immersive web experiences with `HTML`, `CSS`, `JavaScript`, and `React.js`. Dedicated to creating sleek, user-friendly interfaces and staying up-to-date with the latest frontend technologies. Let's innovate and build the future of the web together!
+🌟 Passionate Frontend React Developer
+🚀Crafting immersive web experiences with `HTML`, `CSS`, `JavaScript`, and `React.js`. Dedicated to creating sleek, user-friendly interfaces and staying up-to-date with the latest frontend technologies. Let's innovate and build the future of the web together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
