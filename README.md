@@ -6,16 +6,17 @@
 ---
 
 ### 💡 About Me  
-I am a passionate frontend developer specializing in **ReactJS** and building dynamic, user-focused applications. With over a year of freelancing experience, I thrive on creating responsive and visually appealing projects that deliver seamless user experiences.
+I am a passionate frontend developer specializing in ReactJS and building dynamic, user-focused applications. With 2 years of freelancing experience, I thrive on creating responsive and visually appealing projects that deliver seamless user experiences.
 
 ---
 
 ### 🛠️ Core Skills  
 
-| **Frontend**         | **Tools**         | **Other Skills**     |
-|-----------------------|-------------------|----------------------|
-| HTML5, CSS3, JS (ES6+) | Git, Tailwind, Bootstrap | UI/UX Principles     |
-| ReactJS, jQuery       | VSCcode, SCSS, AJAX   | API Integration      |
+| **Frontend**                                                                                             | **Tools**                                                                                                   | **Other Skills**                           |
+|----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)       ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white) | ![UI/UX](https://img.shields.io/badge/UI%2FUX-Principles-green?style=for-the-badge) |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)       ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)           | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![AJAX](https://img.shields.io/badge/AJAX-blue?style=for-the-badge&logo=ajax&logoColor=white) | ![API](https://img.shields.io/badge/API-Integration-lightblue?style=for-the-badge) |
+
 
 ---
 
