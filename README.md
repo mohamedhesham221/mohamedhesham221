@@ -51,8 +51,15 @@ I am a passionate frontend developer specializing in ReactJS and building dynami
 
 ### 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhesham221&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham221&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhesham221&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham221&layout=compact&theme=tokyonight)  
+
+---
+
+### 🏆 Certifications
+
+  <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733258472/CS50x_certificate-1_izbzzi.png" width="300" alt="CS50x certificate"> <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733259137/React_certified-1_wnhvrw.png" width="300" alt="react Certification"> <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733259147/professional_front_end_developer-1_ivvs3s.png" width="300" alt="professional frontend Certification"> <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733259155/web_challenger_certificate-1_x498hl.png" width="300" alt="web challenger Certification">
+
+
 
 ---
 
