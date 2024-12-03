@@ -59,7 +59,7 @@ I am a passionate frontend developer specializing in ReactJS and building dynami
 
 ### 🏆 Certifications
 
-  <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733258472/CS50x_certificate-1_izbzzi.png" width="300" alt="CS50x certificate"> <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733259137/React_certified-1_wnhvrw.png" width="300" alt="react Certification"> <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733259147/professional_front_end_developer-1_ivvs3s.png" width="300" alt="professional frontend Certification"> <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733259155/web_challenger_certificate-1_x498hl.png" width="300" alt="web challenger Certification">
+  <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733258472/CS50x_certificate-1_izbzzi.png" width="250" alt="CS50x certificate"> <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733259137/React_certified-1_wnhvrw.png" width="250" alt="react Certification"> <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733259147/professional_front_end_developer-1_ivvs3s.png" width="250" alt="professional frontend Certification"> <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733259155/web_challenger_certificate-1_x498hl.png" width="250" alt="web challenger Certification">
 
 
 
