@@ -53,8 +53,8 @@ I am a passionate frontend developer specializing in ReactJS and building dynami
 
 ## 🏆 Frontend Mentor Achievements
 
-- **Score**: 675 points
-- **Challenges Completed**: 36
+- **Score**: 695 points
+- **Challenges Completed**: 37
 
 View my profile [here](https://www.frontendmentor.io/profile/mohamedhesham221).
 
