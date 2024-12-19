@@ -83,6 +83,7 @@ View my profile [here](https://www.frontendmentor.io/profile/mohamedhesham221).
 
 ### 🌐 Connect with Me  
 
-- [![Email Badge](https://img.shields.io/badge/Email-muhammedheshamm2%40gmail.com-brightgreen)](mailto:muhammedheshamm2@gmail.com)
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Muhammad%20Hisham-blue)](https://www.linkedin.com/in/muhammad-hisham-23544b253/)
-- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Muhammad%20Hisham-green)](https://muhammadhisham2024.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hisham-23544b253/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedhesham221)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedheshamm2@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://muhammadhisham2024.netlify.app/)
