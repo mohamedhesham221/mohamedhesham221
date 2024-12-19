@@ -63,7 +63,7 @@ View my profile [here](https://www.frontendmentor.io/profile/mohamedhesham221).
 ### 📈 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhesham221&show_icons=true&theme=dark)  
-![Your Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedhesham221&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedhesham221&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham221&layout=compact&theme=dark)
 
 
