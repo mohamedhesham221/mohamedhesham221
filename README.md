@@ -35,17 +35,17 @@ I am a passionate frontend developer specializing in ReactJS and building dynami
 
 - **🎥 [TMDB Clone Project](https://tmdb-clone2024.vercel.app/)**  
   ReactJS-based movie platform with advanced filters and API integration.  
-  - **Tech Stack**: ReactJS, CSS  
+  - **Tech Stack**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white) 
   - **Features**: Dynamic filters (date range, genres, ratings), Search Functionalty
 
 - **📚 [Dictionary Web App](https://dictionary-web-app-lovat.vercel.app/)**  
   React-based web application that provides users with definitions, synonyms, antonyms, and examples of words.
-  - **Tech Stack**: ReactJS, CSS  
+  - **Tech Stack**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
   - **Features**: Dark Mode, Search Functionalty
 
 - **🌍 [REST Countries API Project](https://github.com/your-repo-link)**  
   React-based web application that provide detailed information about countries worldwide.  
-  - **Tech Stack**: ReactJS, CSS
+  - **Tech Stack**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
   - **Features**: Dark Mode, Search Functionalty
 
 ---
@@ -87,6 +87,5 @@ View my profile [here](https://www.frontendmentor.io/profile/mohamedhesham221).
 ### 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hisham-23544b253/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedhesham221)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedheshamm2@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://muhammadhisham2024.netlify.app/)
