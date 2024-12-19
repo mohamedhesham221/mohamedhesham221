@@ -62,14 +62,17 @@ View my profile [here](https://www.frontendmentor.io/profile/mohamedhesham221).
 
 ### 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhesham221&show_icons=true&theme=dark)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedhesham221&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham221&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhesham221&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham221&layout=compact&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mohamedhesham221&theme=darkhub&column=4)
 
+---
+### ✍️ Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&font=Roboto&animation=fade&emoji=1)
 
 ---
 
-### 🏆 Certifications
+### 🏆 Certifications and Achievements
 
 <div align="center">
   <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733258472/CS50x_certificate-1_izbzzi.png" width="250" alt="CS50x certificate"> <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733259137/React_certified-1_wnhvrw.png" width="250" alt="react Certification"> <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733259147/professional_front_end_developer-1_ivvs3s.png" width="250" alt="professional frontend Certification"> <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733259155/web_challenger_certificate-1_x498hl.png" width="250" alt="web challenger Certification">
