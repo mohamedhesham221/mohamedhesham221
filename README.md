@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=100&color=F75590&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Mohamed+Hisham;A+Frontend+Developer" alt="Typing SVG" />
 </p>
 
-### 💡 About Me  
+## 💡 About Me  
 
 ---
 
