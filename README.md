@@ -1,12 +1,6 @@
-# 👨‍💻 Muhammad Hisham  
-
-🚀 **Frontend Developer** | 🌍 Egypt  
-🔎 **Transforming Ideas into Intuitive Web Experiences**  
-
----
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75590&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Mohamed+Hisham;A+Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&color=F75590&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Mohamed+Hisham;A+Frontend+Developer" alt="Typing SVG" />
 </p>
 
 ### 💡 About Me  
