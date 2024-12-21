@@ -97,6 +97,10 @@ View my profile [here](https://www.frontendmentor.io/profile/mohamedhesham221).
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=Thank+you+for+visiting!!" alt="Typing SVG" />
+</p>
+
 ### 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hisham-23544b253/)
