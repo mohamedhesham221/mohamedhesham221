@@ -72,6 +72,9 @@ View my profile [here](https://www.frontendmentor.io/profile/mohamedhesham221).
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedhesham221&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 <p align="center">
+    <img src="https://streak-stats.demolab.com?user=mohamedhesham221&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="mohamedhesham221's streak"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham221&layout=compact&theme=dark" alt="Top Languages">
 </p>
 <p align="center">
