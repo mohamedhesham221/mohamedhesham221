@@ -19,7 +19,7 @@ Beyond developing applications, I am dedicated to continuous improvement and con
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/React-router-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/ReactRouter-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -31,6 +31,7 @@ Beyond developing applications, I am dedicated to continuous improvement and con
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![API](https://img.shields.io/badge/API-Integration-lightblue?style=for-the-badge)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Principles-green?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge)
 
 
 ---
