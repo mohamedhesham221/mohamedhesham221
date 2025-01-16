@@ -61,8 +61,8 @@ Beyond developing applications, I am dedicated to continuous improvement and con
 
 ## 🏆 Frontend Mentor Achievements
 
-- **Score**: 695 points
-- **Challenges Completed**: 37
+- **Score**: 715 points
+- **Challenges Completed**: 38
 
 View my profile [here](https://www.frontendmentor.io/profile/mohamedhesham221).
 
