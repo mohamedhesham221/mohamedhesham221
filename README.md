@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=100&color=006EE6&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Mohamed+Hesham;A+Frontend+Developer" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=100&color=006EE6&width=435&lines=Hi+there!+👋;I'm+Muhammad+Hisham;A+Frontend+Developer)
 
 ## 💡 About Me  
 
