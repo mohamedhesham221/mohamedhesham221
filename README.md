@@ -97,12 +97,9 @@ View my profile [here](https://www.frontendmentor.io/profile/mohamedhesham221).
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3AFF75&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;See+you+soon!+😊" alt="Goodbye Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=100&color=006EE6&width=435&lines=Good+Bye+👋)
 
 ### 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hisham-23544b253/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedheshamm2@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://muhammadhisham2024.netlify.app/)
