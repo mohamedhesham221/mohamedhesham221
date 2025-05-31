@@ -5,10 +5,7 @@
 
 ---
 
-I am a passionate frontend developer with over two years of experience specializing in ReactJS and building dynamic, user-focused applications. I thrive on creating responsive and visually appealing projects that deliver seamless user experiences, combining technical expertise with a deep understanding of design principles.
-
-Beyond developing applications, I am dedicated to continuous improvement and contributing to the developer community. I actively share knowledge, explore emerging technologies, and engage in collaborative projects to drive innovation. My goal is not only to create functional solutions but also to contribute meaningfully to the growth and evolution of the   tech ecosystem.
-
+I'm a **Frontend Developer** with 3+ years of experience building modern, scalable, and responsive web applications using **React.js**, **JavaScript (ES6+)**, and a solid toolkit of frontend technologies.
 ---
 
 ## 🛠️ My Toolbox
