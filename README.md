@@ -3,9 +3,19 @@
 
 ## 💡 About Me  
 
----
+Frontend Developer (React.js) | 2+ Years of Building Scalable, High-Performance Web Applications
 
-I'm a **Frontend Developer** with 3+ years of experience building modern, scalable, and responsive web applications using **React.js**, **JavaScript (ES6+)**, and a solid toolkit of frontend technologies.
+I’m a results-driven Frontend Developer with over 2 years of experience specializing in React.js, JavaScript (ES6+), and modern frontend architectures. I’ve successfully delivered 4+ production-grade web applications with robust features including:
+
+Real-time analytics using Firebase, Zustand, and TanStack Query
+
+Clean, responsive, and accessible UI components using Tailwind CSS and Material UI (MUI)
+
+Seamless RESTful API integrations and scalable, component-based design
+
+I'm currently learning Next.js to expand my skills in server-side rendering and full-stack development. I'm continuously growing to become a proficient MERN Stack Developer, driven by a passion for clean code, performance optimization, and solving real-world problems through technology.
+
+
 ---
 
 ## 🛠️ My Toolbox
