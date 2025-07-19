@@ -41,7 +41,7 @@ I'm currently learning Next.js to expand my skills in server-side rendering and 
 
 ---
 
-## 🌐 Prtfolio
+## 🌐 Portfolio
 
 https://muhammad-hisham-portfolio-22.vercel.app/
 
