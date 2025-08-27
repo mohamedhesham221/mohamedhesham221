@@ -25,42 +25,54 @@ Passionate about solving real-world problems through technology and delivering g
 
 ## 🛠️ My Toolbox
 
+**Languages & Core**
+---
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+---
+**Frameworks & Libraries**
+---
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/React%20Router-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-blue?style=for-the-badge&logo=ajax&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-005571?style=for-the-badge)
+---
+**Styling**
+---
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+----
+**Tools & Platforms**
+---
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![API](https://img.shields.io/badge/API-Integration-lightblue?style=for-the-badge)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Principles-green?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![API](https://img.shields.io/badge/API%20Integration-lightblue?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Principles-3DDC84?style=for-the-badge)
+---
 
 
 ---
 
-## 🌐 Portfolio
-
-https://muhammad-hisham-portfolio-22.vercel.app/
-
----
-
-## 🏆 Frontend Mentor Achievements
-
-- **Score**: 715 points
-- **Challenges Completed**: 38
-
-View my profile [here](https://www.frontendmentor.io/profile/mohamedhesham221).
+## 🌐 Portfolio  
+Check out my personal portfolio to explore my projects and work:  
+🔗 [muhammad-hisham-portfolio-22.vercel.app](https://muhammad-hisham-portfolio-22.vercel.app/)
 
 ---
 
+## 🏆 Frontend Mentor Achievements  
+Proudly leveling up my frontend skills through real-world challenges:  
+
+- ⭐ **715+ points earned**  
+- 🚀 **38 challenges achieved**  
+
+🔗 [View my Frontend Mentor Profile](https://www.frontendmentor.io/profile/mohamedhesham221)
+---
+---
 ### 📈 GitHub Stats  
 
 <p align="center">
@@ -84,6 +96,8 @@ View my profile [here](https://www.frontendmentor.io/profile/mohamedhesham221).
 <div align="center">
   <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733258472/CS50x_certificate-1_izbzzi.png" width="250" alt="CS50x certificate"> <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733259137/React_certified-1_wnhvrw.png" width="250" alt="react Certification"> <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733259147/professional_front_end_developer-1_ivvs3s.png" width="250" alt="professional frontend Certification"> <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1733259155/web_challenger_certificate-1_x498hl.png" width="250" alt="web challenger Certification">
   <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1752683888/web_master_certification_page-0001_m0kray.jpg" width="250" alt="web master Certification">
+  <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1756285702/responsive_designs_freeCodeCamp_cd7iyw.png" width="250" alt="Responsive wev design Certification">
+  <img src="https://res.cloudinary.com/drfia8cgo/image/upload/v1756285702/fronend_libraries_freeCodeCamp_gjuvjm.png" width="250" alt="Frontend development libraries Certification">
 </div>
 
 
