@@ -5,8 +5,8 @@
 
 Frontend Developer (React.js & Next.js) | 2+ Years of Building Scalable, High-Performance Web Applications
 
-I’m a results-driven Frontend Developer with 2+ years of experience in React.js, Next.js, and modern frontend architectures.
-Over this time, I’ve successfully delivered 4+ production-grade applications, focusing on performance, scalability, and user-friendly design.
+I’m a frontend developer passionate about building scalable web applications that solve real problems and deliver great user experiences.
+With 2+ years of experience, I’ve turned ideas into production-ready solutions using modern frontend tools and practices.
 
 🔹 Key Highlights:
 
